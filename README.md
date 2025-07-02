@@ -7,11 +7,6 @@
 - 《深入高可用系统原理与设计》已出版
 - 《创造智慧 - AI 系统的原理与实现》编写中
 
-以下为我的公众号。
-<div  align="left">
-	<img src="https://www.thebyte.com.cn/assets/qrcode-v2-Dm-ghQau.png" width = "250"  align=center />
-</div>
-
 
 <!--
 **isno/isno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
